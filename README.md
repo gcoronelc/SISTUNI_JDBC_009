@@ -1,2 +1,45 @@
-# SISTUNI_JDBC_009
-Java JDBC los Martes y Jueves de 8 a 14 Horas en SistemasUNI. 
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_007/master/JavaJDBC009.png)
+
+# DESARROLLADOR DE APLICACIONES CLIENTE - SERVIDOR
+
+- Lugar: SistemasUNI
+- Horario: MARTES Y JUEVES de 08 a 14 Horas
+- Inicio: 01-DICIEMBRE-2016
+- Dirección: https://goo.gl/maps/98vwAt9NZMU2
+- Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
+- Página: http://gcoronelc.github.io/SISTUNI_JDBC_007/
+
+# DOCENTE
+
+- Docente: Eric Gustavo Coronel Castillo
+- Blog: www.desarrollasoftware.com
+- Correo: gcoronelc@gmail.com
+
+# RECURSOS DEL CURSO
+
+- Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
+- Resumen Cliente-Servidor: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
+- Libros de Oracle: http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
+- Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
+- ResultSet to List: http://gcoronelc.blogspot.pe/2015/01/java-jdbc-resultset-to-list.html
+- Oracle Cursores: http://gcoronelc.blogspot.pe/2014/05/java-jdbc-oracle-cursor.html
+- Mejorando el rendimiento de consultas: http://gcoronelc.blogspot.pe/2015/12/sql-server-mejorando-el-rendimiento-de.html
+- Agrupando datos: http://gcoronelc.blogspot.pe/2013/06/sql-server-agrupando-datos.html
+- MyBatis: http://gcoronelc.blogspot.pe/2015/09/primeros-pasos-con-mybatis.html
+- Código fuente: http://gcoronelc.blogspot.pe/2016/10/eureka-cs-oracle-jdbc.html
+
+# RECURSOS RECOMENDADOS
+
+- Repositorio de curso Java: https://github.com/gcoronelc/PECI-Java-MAR-2015
+- Curso virtual de Git: https://www.udemy.com/git-started-with-github/
+- Portal de cursos virtuales: http://www.librosdigitales.net
+- Oracle Tour 2012: http://www.peoug.org/oracleotn2012/
+- Oracle Tour 2013: http://www.peoug.org/otntour2013/
+- Oracle Tour 2014: http://www.peoug.org/otntour2014/
+- Oracle Tour 2015: http://www.peoug.org/otntour2015/
+- RichFaces is Dead: https://youtu.be/o7t3ABfWYLo
+- ¿Eres un recurso estratégico?: https://youtu.be/knZxhVck2mk
+
+
+
+
