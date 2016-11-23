@@ -1,4 +1,4 @@
-![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_007/master/JavaJDBC009.png)
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009.png)
 
 # DESARROLLADOR DE APLICACIONES CLIENTE - SERVIDOR
 
