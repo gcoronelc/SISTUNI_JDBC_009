@@ -1,4 +1,4 @@
-![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009.png)
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-1.png)
 
 # DESARROLLADOR DE APLICACIONES CLIENTE - SERVIDOR
 
@@ -26,7 +26,7 @@
 - Mejorando el rendimiento de consultas: http://gcoronelc.blogspot.pe/2015/12/sql-server-mejorando-el-rendimiento-de.html
 - Agrupando datos: http://gcoronelc.blogspot.pe/2013/06/sql-server-agrupando-datos.html
 - MyBatis: http://gcoronelc.blogspot.pe/2015/09/primeros-pasos-con-mybatis.html
-- Código fuente: http://gcoronelc.blogspot.pe/2016/10/eureka-cs-oracle-jdbc.html
+- Código fuente: https://goo.gl/GRaOQg
 
 # RECURSOS RECOMENDADOS
 
