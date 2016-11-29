@@ -1,10 +1,10 @@
-![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-1.png)
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-2.png)
 
 # DESARROLLADOR DE APLICACIONES CLIENTE - SERVIDOR
 
 - Lugar: SistemasUNI
 - Horario: MARTES Y JUEVES de 08 a 14 Horas
-- Inicio: 01-DICIEMBRE-2016
+- Inicio: 13-DICIEMBRE-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
 - Página: http://gcoronelc.github.io/SISTUNI_JDBC_009/
