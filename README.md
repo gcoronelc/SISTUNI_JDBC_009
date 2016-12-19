@@ -4,7 +4,7 @@
 
 - Lugar: SistemasUNI
 - Horario: SABADOS de 08 a 14 Horas
-- Inicio: 13-DICIEMBRE-2016
+- Inicio: 07-ENERO-2017
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
 - Página: http://gcoronelc.github.io/SISTUNI_JDBC_009/
