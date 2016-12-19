@@ -1,9 +1,9 @@
-![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-2.png)
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-3.png)
 
 # DESARROLLADOR DE APLICACIONES CLIENTE - SERVIDOR
 
 - Lugar: SistemasUNI
-- Horario: MARTES Y JUEVES de 08 a 14 Horas
+- Horario: SABADOS de 08 a 14 Horas
 - Inicio: 13-DICIEMBRE-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
@@ -38,6 +38,7 @@
 - Oracle Tour 2014: http://www.peoug.org/otntour2014/
 - Oracle Tour 2015: http://www.peoug.org/otntour2015/
 - RichFaces is Dead: https://youtu.be/o7t3ABfWYLo
+- Arquitectura de Software: https://youtu.be/2Bcbls0bBzs
 - ¿Eres un recurso estratégico?: https://youtu.be/knZxhVck2mk
 
 
