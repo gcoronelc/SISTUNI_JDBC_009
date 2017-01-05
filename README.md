@@ -1,10 +1,10 @@
-![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-3.png)
+![Java CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/SISTUNI_JDBC_009/master/JavaJDBC009-4.png)
 
 # DESARROLLADOR DE APLICACIONES CLIENTE - SERVIDOR
 
 - Lugar: SistemasUNI
 - Horario: SABADOS de 08 a 14 Horas
-- Inicio: 07-ENERO-2017
+- Inicio: 14-ENERO-2017
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
 - Página: http://gcoronelc.github.io/SISTUNI_JDBC_009/
@@ -21,6 +21,7 @@
 - Resumen Cliente-Servidor: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
 - Libros de Oracle: http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
 - Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
+- Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
 - ResultSet to List: http://gcoronelc.blogspot.pe/2015/01/java-jdbc-resultset-to-list.html
 - Oracle Cursores: http://gcoronelc.blogspot.pe/2014/05/java-jdbc-oracle-cursor.html
 - Mejorando el rendimiento de consultas: http://gcoronelc.blogspot.pe/2015/12/sql-server-mejorando-el-rendimiento-de.html
