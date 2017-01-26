@@ -6,6 +6,7 @@
 - Horario: MARTES y JUEVES DE 19 a 22 Horas
 - Duración: 24 Horas
 - Inicio: 07-FEBRERO-2017
+- Informes: 200-9060, 939-364-947, 939-364-979
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
 - Página: http://gcoronelc.github.io/SISTUNI_JDBC_009/
